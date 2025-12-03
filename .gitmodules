@@ -5,10 +5,6 @@
 [submodule "colors3d"]
 	path = colors3d
 	url = https://github.com/matthewkling/colors3d
-[submodule "nullcat"]
-	path = nullcat
-	url = https://github.com/matthewkling/nullcat
-	registered = false
 [submodule "phylospatial"]
 	path = phylospatial
 	url = https://github.com/matthewkling/phylospatial

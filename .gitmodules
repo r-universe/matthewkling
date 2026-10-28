@@ -17,3 +17,6 @@
 [submodule "phylospatial"]
 	path = phylospatial
 	url = https://github.com/matthewkling/phylospatial
+[submodule "windscape"]
+	path = windscape
+	url = https://github.com/matthewkling/windscape
